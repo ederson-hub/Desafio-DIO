@@ -1,5 +1,5 @@
-🚀 README do Projeto de Banco de Dados (DER E-Commerce)
-Este repositório contém os scripts SQL para a criação das tabelas e consultas de análise baseadas no Diagrama Entidade-Relacionamento (DER) de um sistema de E-commerce.
+🚀 Projeto de Banco de Dados (DER E-Commerce)
+Este repositório contém os scripts SQL para a criação das tabelas e consultas de análise (DER) de um sistema de E-commerce.
 
 🏗️ Estrutura do Banco de Dados
 O banco de dados foi modelado para gerenciar clientes, produtos, pedidos, fornecedores, vendedores terceirizados e estoque.

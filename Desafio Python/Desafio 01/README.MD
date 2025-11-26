@@ -9,7 +9,7 @@ Começando com a simples extração de IDs de usuários de uma planilha, seguind
 
 * **[Funcionalidade 1]:** Extract
 * **[Funcionalidade 2]:** Transform
-****[Funcionalidade 3]:** Load
+* **[Funcionalidade 3]:** Load
 
 ## 🛠️ Tecnologias e Bibliotecas
 
